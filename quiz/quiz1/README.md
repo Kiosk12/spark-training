@@ -1,7 +1,16 @@
 You have two identical scripts, one is written using Scala, while the other is written using Python. Several code snippets has been removed (replaced by `???`)
 
-Implement the missing code snippets in `quiz.scala` (lines 13 and 14) and `quiz.py` (lines 12 and 14).
-So that both programs work and print the same output.
+# Required
+Simply open both files `quiz.scala` and `quiz.py`.
+![screenshot](screenshot.png)
+
+Implement the missing code snippets:
+- `quiz.scala` line 12 (by translating from `quiz.py` line 12)
+- `quiz.scala` line 14 (by translating from `quiz.py` line 14)
+- `quiz.py` line 15 (by translating from `quiz.scala` line 15)
+- `quiz.py` line 16 (by translating from `quiz.scala` line 16)
+
+So that both programs work and prints the same output.
 
 # Expected output
 ## Python
