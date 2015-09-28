@@ -9,9 +9,9 @@ old_new_salaries = [
 ]
 
 def is_high_raise(r):
-    ???
+    return r > 500
 
-raises = map(???, old_new_salaries)
+raises = map( lambda ss: ss[1] - ss[0] , old_new_salaries)
 high_raises = filter(is_high_raise, raises)
 total_high_raises = reduce(lambda a,b: a + b, high_raises)
 
