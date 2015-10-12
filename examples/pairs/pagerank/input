@@ -1,5 +1,6 @@
 a: d
 b: a, d
 c: a
-e:
+d: f
+e: d
 f: e

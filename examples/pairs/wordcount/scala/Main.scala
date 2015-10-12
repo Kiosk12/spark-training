@@ -5,6 +5,6 @@ object Main {
     val conf = new SparkConf().setAppName("test").setMaster("local[*]")
     val sc = new SparkContext(conf)
 
-  
+
   }
 }
