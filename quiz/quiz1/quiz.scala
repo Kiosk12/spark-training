@@ -1,3 +1,5 @@
+
+
 val old_new_salaries = Seq(
     // (old_salary, new_salary)
     (2401, 2507), (2172, 2883), (2463, 2867), (2462, 3325), (2949, 2974),
